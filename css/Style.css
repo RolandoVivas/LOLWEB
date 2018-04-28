@@ -1,0 +1,66 @@
+h1,h2 {
+
+	background-color: yellow;
+	font: bold 90%;
+	color: blue;
+
+}
+
+
+ 
+p{
+ 	color: blue;
+ 	font-family: serif;
+ }
+
+ html {
+ 	background-color: #005
+
+ }
+
+ * {
+ 	margin-left: 20px;
+ }
+
+ .guias a {
+ 	font-size: 30px;
+
+	color:blue;
+}
+
+.guias {
+	max-width: 20%;
+	height: 20%;
+	background:black;
+	margin: 0 auto; 
+}
+
+.guias ul {
+
+	display:block;
+	text-align: center;
+
+}
+
+.guias a {
+	padding:8px;
+	margin:15px 10px 10px 20px;
+	border:3px solid yellow;
+	color: gold;
+	display: block;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 10px;
+	text-decoration: underline;
+	font-family: all;font-family:Segoe UI Black;
+
+
+}
+
+.TOP,.JG,.MID,.ADC,.SUPPORT {
+	background-color: #A93226;
+
+}
+
+p {
+	font-size: 17px
+}
